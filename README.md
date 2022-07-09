@@ -12,6 +12,7 @@ Open Source Flutter Music Player(Read Local Storage Songs.)
 
     * [x] Fetch local songs
     * [x] Multiple themes
+    * [x] Multiple language
     * [x] Play
     * [x] Stop
     * [x] Pause
