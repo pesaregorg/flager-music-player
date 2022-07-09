@@ -27,12 +27,8 @@ Open Source Flutter Music Player(Read Local Storage Songs.)
 
 ### Screenshots
 
-<img src="screenshots/scr1.jpg" height="300em" /> 
-<img src="screenshots/scr2.jpg" height="300em" /> 
-<img src="screenshots/scr3.jpg" height="300em" /> 
-<img src="screenshots/scr4.jpg" height="300em" /> 
-<img src="screenshots/scr5.jpg" height="300em" /> 
-<img src="screenshots/scr6.jpg" height="300em" /> 
+<img src="screenshots/scr1.jpg" height="300em" /> <img src="screenshots/scr2.jpg" height="300em" /> <img src="screenshots/scr3.jpg" height="300em" /> 
+<img src="screenshots/scr4.jpg" height="300em" /> <img src="screenshots/scr5.jpg" height="300em" /> <img src="screenshots/scr6.jpg" height="300em" /> 
 <img src="screenshots/scr7.jpg" height="300em" /> 
 
 
